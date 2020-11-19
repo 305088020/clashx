@@ -1310,6 +1310,13 @@ rules:
 - DOMAIN-SUFFIX,baidubcr.com,DIRECT
 - DOMAIN-SUFFIX,bdstatic.com,DIRECT
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
+# > wangyi
+- DOMAIN-SUFFIX,163.com,DIRECT
+- DOMAIN-SUFFIX,music.163.com,DIRECT
+- DOMAIN-SUFFIX,interface.music.163.com,DIRECT
+- DOMAIN-SUFFIX,interface3.music.163.com,DIRECT
+- DOMAIN-SUFFIX,apm.music.163.com,DIRECT
+- DOMAIN-SUFFIX,apm3.music.163.com,DIRECT
 # > bilibili
 - DOMAIN-SUFFIX,acgvideo.com,DIRECT
 - DOMAIN-SUFFIX,biliapi.com,DIRECT
